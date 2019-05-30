@@ -102,7 +102,7 @@ We can train our prediction model by analyzing existing data because we already 
 # Splitting: 
 First, data is divided into two parts using component splitting. In this experiment, data is split based on a ratio of 80:20 for the training set and the prediction set. The training set data is used in the logistic regression component for model training, while the prediction set data is used in the prediction component.
 
-# The following classification models are used - Logistic Regression, Ranom Forest Classfier, SVC, Naive Bayes Classifier, KNN
+The following classification models are used - Logistic Regression, Ranom Forest Classfier, SVC, Naive Bayes Classifier, KNN
 
 # Prediction:
 The two inputs of the prediction component are the model and the prediction set. The prediction result shows the predicted data, actual data, and the probability of different results in each group.
