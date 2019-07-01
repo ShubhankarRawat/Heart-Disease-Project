@@ -1,6 +1,6 @@
-﻿# Heart Disease prediction using Machine Learning.
+# Heart Disease prediction using Machine Learning.
 
-Introduction
+## Introduction
 
 Heart diseases is a term covering any disorder of the heart.
 Heart diseases have become a major concern to deal with as studies show that the number of deaths due to heart diseases have increased significantly over the past few decades in India, in fact it has become the leading cause of death in India.
@@ -61,28 +61,28 @@ There are 15 columns in the dataset, however the first column name is not a good
 	Age: 
 Age is the most important risk factor in developing cardiovascular or heart diseases, with approximately a tripling of risk with each decade of life.[24] Coronary fatty streaks can begin to form in adolescence.[25] It is estimated that 82 percent of people who die of coronary heart disease are 65 and older.[26] Simultaneously, the risk of stroke doubles every decade after age 55.
 
-	Sex: 
+-	**Sex** : 
 Men are at greater risk of heart disease than pre-menopausal women.[24][30] Once past menopause, it has been argued that a woman's risk is similar to a man's[30] although more recent data from the WHO and UN disputes this.[24] If a female has diabetes, she is more likely to develop heart disease than a male with diabetes.
 
-	Angina (Chest Pain):
+-	**Angina (Chest Pain)** :
 Angina is chest pain or discomfort caused when your heart muscle doesn't get enough oxygen-rich blood. It may feel like pressure or squeezing in your chest. The discomfort also can occur in your shoulders, arms, neck, jaw, or back. Angina pain may even feel like indigestion.
 
-	Resting Blood Pressure:
+-	**Resting Blood Pressure** :
 Over time, high blood pressure can damage arteries that feed your heart. High blood pressure that occurs with other conditions, such as obesity, high cholesterol or diabetes, increases your risk even more.
 
-	Serum Cholestrol: 
+-	__Serum Cholestrol__ : 
 A high level of low-density lipoprotein (LDL) cholesterol (the "bad" cholesterol) is most likely to narrow arteries. A high level of triglycerides, a type of blood fat related to your diet, also ups your risk of heart attack. However, a high level of high-density lipoprotein (HDL) cholesterol (the "good" cholesterol) lowers your risk of heart attack.
 
-	Fasting Blood Sugar:
+-	**Fasting Blood Sugar** :
 Not producing enough of a hormone secreted by your pancreas (insulin) or not responding to insulin properly causes your body's blood sugar levels to rise, increasing your risk of heart attack.
 
-	Resting ECG:
+-	**Resting ECG** :
 For people at low risk of cardiovascular disease, the USPSTF concludes with moderate certainty that the potential harms of screening with resting or exercise ECG equal or exceed the potential benefits. For people at intermediate to high risk, current evidence is insufficient to assess the balance of benefits and harms of screening.
 
-	Max heart rate achieved:
+-	__Max heart rate achieved__ :
 The increase in the cardiovascular risk, associated with the acceleration of heart rate, was comparable to the increase in risk observed with high blood pressure. It has been shown that an increase in heart rate by 10 beats per minute was associated with an increase in the risk of cardiac death by at least 20%, and this increase in the risk is similar to the one observed with an increase in systolic blood pressure by 10 mm Hg.
 
-	Exercise induced angina:
+-	__Exercise induced angina__ :
 The pain or discomfort associated with angina usually feels tight, gripping or squeezing, and can vary from mild to severe. Angina is usually felt in the centre of your chest, but may spread to either or both of your shoulders, or your back, neck, jaw or arm. It can even be felt in your hands.
 o			Types of Angina
 a.	Stable Angina / Angina Pectoris
@@ -90,9 +90,9 @@ b.	Unstable Angina
 c.	Variant (Prinzmetal) Angina
 d.	Microvascular Angina
 
-	ST depression induced by exercise relative to rest :
+-	**ST depression induced by exercise relative to rest** 
 
-	Peak exercise ST segment:
+-	**Peak exercise ST segment** :
 A treadmill ECG stress test is considered abnormal when there is a horizontal or down-sloping ST-segment depression ≥ 1 mm at 60–80 ms after the J point. Exercise ECGs with up-sloping ST-segment depressions are typically reported as an ‘equivocal’ test. In general, the occurrence of horizontal or down-sloping ST-segment depression at a lower workload (calculated in METs) or heart rate indicates a worse prognosis and higher likelihood of multi-vessel disease. The duration of ST-segment depression is also important, as prolonged recovery after peak stress is consistent with a positive treadmill ECG stress test. Another finding that is highly indicative of significant CAD is the occurrence of ST-segment elevation > 1 mm (often suggesting transmural ischaemia); these patients are frequently referred urgently for coronary angiography.
 
 
