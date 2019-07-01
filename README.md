@@ -1,5 +1,7 @@
 # Heart Disease prediction using Machine Learning.
 
+![](img.jpg)
+
 ## Introduction
 
 Heart diseases is a term covering any disorder of the heart.
@@ -57,7 +59,7 @@ There are 15 columns in the dataset, however the first column name is not a good
               0 = absence
               1,2,3,4 = present.
 
-# Why these parameters:
+## Why these parameters:
 	Age: 
 Age is the most important risk factor in developing cardiovascular or heart diseases, with approximately a tripling of risk with each decade of life.[24] Coronary fatty streaks can begin to form in adolescence.[25] It is estimated that 82 percent of people who die of coronary heart disease are 65 and older.[26] Simultaneously, the risk of stroke doubles every decade after age 55.
 
@@ -96,16 +98,16 @@ d.	Microvascular Angina
 A treadmill ECG stress test is considered abnormal when there is a horizontal or down-sloping ST-segment depression ≥ 1 mm at 60–80 ms after the J point. Exercise ECGs with up-sloping ST-segment depressions are typically reported as an ‘equivocal’ test. In general, the occurrence of horizontal or down-sloping ST-segment depression at a lower workload (calculated in METs) or heart rate indicates a worse prognosis and higher likelihood of multi-vessel disease. The duration of ST-segment depression is also important, as prolonged recovery after peak stress is consistent with a positive treadmill ECG stress test. Another finding that is highly indicative of significant CAD is the occurrence of ST-segment elevation > 1 mm (often suggesting transmural ischaemia); these patients are frequently referred urgently for coronary angiography.
 
 
-# Model Training and Prediction : 
+## Model Training and Prediction : 
 We can train our prediction model by analyzing existing data because we already know whether each patient has heart disease. This process is also known as supervision and learning. The trained model is then used to predict if users suffer from heart disease. The training and prediction process is described as follows:
 
-# Splitting: 
+## Splitting: 
 First, data is divided into two parts using component splitting. In this experiment, data is split based on a ratio of 80:20 for the training set and the prediction set. The training set data is used in the logistic regression component for model training, while the prediction set data is used in the prediction component.
 
 The following classification models are used - Logistic Regression, Ranom Forest Classfier, SVC, Naive Bayes Classifier, KNN
 
-# Prediction:
+## Prediction:
 The two inputs of the prediction component are the model and the prediction set. The prediction result shows the predicted data, actual data, and the probability of different results in each group.
 
-# Evaluation: 
+## Evaluation: 
 The confusion matrix, also known as the error matrix, is used to evaluate the accuracy of the model.
