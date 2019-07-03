@@ -19,7 +19,7 @@ Problem Description :
 A dataset is formed by taking into consideration some of the information of 779 individuals.
 The problem is : based on the given information about each individual we have to calculate that whether that individual will suffer from heart disease.
 
-# Dataset :
+## Dataset :
 
 The dataset consists of 779 individuals data.
 There are 15 columns in the dataset, however the first column name is not a good parameter as far as machine learning is considered so, there are effectively 14 columns.
