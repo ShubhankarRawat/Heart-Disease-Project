@@ -60,7 +60,7 @@ There are 15 columns in the dataset, however the first column name is not a good
               1,2,3,4 = present.
 
 ## Why these parameters:
-	Age: 
+-	Age: 
 Age is the most important risk factor in developing cardiovascular or heart diseases, with approximately a tripling of risk with each decade of life.[24] Coronary fatty streaks can begin to form in adolescence.[25] It is estimated that 82 percent of people who die of coronary heart disease are 65 and older.[26] Simultaneously, the risk of stroke doubles every decade after age 55.
 
 -	**Sex** : 
